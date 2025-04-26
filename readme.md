@@ -34,7 +34,7 @@
 3. Собери в .exe
    ```bash
    pyinstaller --onedir --noconsole --icon=icon.ico --add-data "icon.png;." main.py
-5. Залетай в папку проекта и заходи в dist, там будет .exe
+5. Заходим в папку проекта и заходи в dist, там будет .exe
 6. (если понравится) заходи:
    ```bash
    C:\windows\
