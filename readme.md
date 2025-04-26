@@ -17,9 +17,9 @@
    ```bash
    pip install pillow
 3. Выбери директорию куда скачать:
-   cd C:\***\***...
-   git clone https://github.com/lazydimas/calculate
-   cd calculator
+   '''cd C:\***\***...
+   '''git clone https://github.com/lazydimas/calculate
+   '''cd calculator
 4. Запусти или отредактируй под себя(на свой вкус):
    python main.py
 
